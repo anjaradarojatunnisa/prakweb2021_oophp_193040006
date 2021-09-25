@@ -1,8 +1,4 @@
-<<?php 
-
-// Jualan Produk
-// Komik
-// Game
+<?php 
 
 
 class Produk{
