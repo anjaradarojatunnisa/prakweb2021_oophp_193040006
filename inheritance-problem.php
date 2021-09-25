@@ -52,3 +52,4 @@ echo $produk1->getInfoLengkap();
 echo "<br>";
 echo $produk2->getInfoLengkap();
 echo "<br>";
+?>
